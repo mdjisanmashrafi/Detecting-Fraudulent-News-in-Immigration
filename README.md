@@ -1,1 +1,1 @@
-# Detecting-Fraudulent-News-in-Immigration
+#In response to the growing threat of fake news in immigration and travel agencies, we're developing a robust fake news detection system using LSTM networks and NLP techniques. Our project aims to accurately classify deceptive information, such as fake university admissions and discounted scholarships, to protect individuals from falling victim to fraudulent schemes. The dataset contains reports detailing deceptive tactics employed by these agencies, empowering users to make informed decisions and stay safe online.
